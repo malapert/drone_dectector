@@ -1,0 +1,2 @@
+python3 -m venv drone_dectector-env && export PYTHONPATH=. && export PATH=/home/malapert/Work/drone_dectector/drone_dectector-env/bin:/home/malapert/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+source "/home/malapert/Work/drone_dectector/drone_dectector-env/bin/activate"

@@ -1,0 +1,4 @@
+setuptools-scm==6.3.2
+types-setuptools==57.4.4
+opencv-python==4.7.0.68
+numpy==1.21.5
